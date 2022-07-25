@@ -1,0 +1,1 @@
+clothing_list = ["shirt", "jacket", "coat", "pants", "socks", "shoes", "hat"]
